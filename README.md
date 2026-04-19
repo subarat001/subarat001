@@ -1,34 +1,97 @@
-# 👋 Hi, I'm Subarat Kumar  
+# Hi, I'm Subarat Kumar  
 
-🚀 Web Developer | software developer | Lifelong Learner**  
-💡 Passionate about **technology, problem-solving, and continuous learning**.  
+Full Stack Developer | MERN Stack Developer | Lifelong Learner  
 
----
-
-## 🧑‍💻 About Me  
-- 🎓 Pursuing **B.A. 3rd Year** from IGNOU  
-- 📚 Learning  **DSA in C++**  
-- 🏋️‍♂️ Fitness enthusiast & sports lover  
-- 🌱 Always exploring **new tech & ideas**  
+I enjoy building modern, scalable, and user-friendly web applications.  
+Passionate about problem-solving, clean code, and continuously learning new technologies.  
 
 ---
 
-## ⚡ Skills & Tools  
-💻 **Languages:** C++, HTML, CSS, JavaScript  
-🛠 **Tools & Platforms:** Git, GitHub, VS Code    
-🎨 **Design:** Canva, Figma  
+## About Me  
+
+- Pursuing **B.A. 3rd Year** from IGNOU  
+- Full Stack Developer with hands-on experience in modern web technologies  
+- Strong interest in building real-world projects and improving logic-building skills  
+- Focused on writing clean, maintainable, and efficient code  
+- Fitness enthusiast and sports lover  
 
 ---
 
-## 📌 Featured Projects   
-🔹 **[DSA Practice Codes](https://leetcode.com/problems/container-with-most-water/description/?envType=problem-list-v2&envId=array)** – C++ solutions for popular coding problems    
+## Tech Stack  
+
+### Frontend  
+- HTML  
+- CSS  
+- JavaScript  
+- React.js  
+- Next.js  
+- Redux Toolkit  
+- GSAP  
+- Lenis  
+- Tailwind CSS  
+
+### Backend  
+- Node.js  
+- Express.js  
+
+### Database  
+- MongoDB  
+
+### Programming Languages  
+- JavaScript  
+- C++  
+
+### Tools  
+- Git  
+- GitHub  
+- VS Code  
+- Postman  
+- Figma  
+- Canva  
 
 ---
 
-## 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subarat-kumar-65081525b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subarat001)  
+## What I Build  
+
+- Responsive and modern web applications  
+- Full Stack MERN projects  
+- REST APIs  
+- Authentication systems  
+- Admin dashboards  
+- Smooth animated UI experiences  
+- Scalable frontend architectures  
 
 ---
 
-⭐ _"Learning never stops — every day is a step closer to mastery."_ ⭐  
+## Featured Projects  
+
+### DSA Practice Codes  
+C++ solutions for coding problems and data structures practice.  
+
+### Full Stack Web Applications  
+Modern MERN stack projects with authentication, dashboards, and APIs.  
+
+### Animated Frontend Projects  
+Creative UI projects using GSAP, React, and smooth scrolling experiences.  
+
+---
+
+## Currently Learning  
+
+- Advanced Backend Architecture  
+- System Design Basics  
+- Next.js Advanced Concepts  
+- Performance Optimization  
+- Clean Code Practices  
+
+---
+
+## Connect With Me  
+
+LinkedIn: https://www.linkedin.com/in/subarat-kumar-65081525b/  
+
+GitHub: https://github.com/subarat001  
+
+---
+
+Learning never stops — every project is a step closer to mastery.
