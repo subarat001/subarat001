@@ -1,19 +1,18 @@
 # Hi, I'm Subarat Kumar  
 
-Full Stack Developer | MERN Stack Developer | Lifelong Learner  
+Full Stack Developer | MERN Stack Developer | Problem Solver  
 
-I enjoy building modern, scalable, and user-friendly web applications.  
-Passionate about problem-solving, clean code, and continuously learning new technologies.  
+I build modern, scalable, and user-friendly web applications with strong frontend and backend fundamentals. Passionate about clean code, logic building, and continuously improving my development skills.
 
 ---
 
 ## About Me  
 
-- Pursuing **B.A. 3rd Year** from IGNOU  
-- Full Stack Developer with hands-on experience in modern web technologies  
-- Strong interest in building real-world projects and improving logic-building skills  
-- Focused on writing clean, maintainable, and efficient code  
-- Fitness enthusiast and sports lover  
+- Full Stack Developer with hands-on project experience  
+- Strong understanding of frontend, backend, and database development  
+- Passionate about creating real-world applications  
+- Focused on problem-solving and writing efficient code  
+- Consistent learner exploring new technologies  
 
 ---
 
@@ -25,21 +24,42 @@ Passionate about problem-solving, clean code, and continuously learning new tech
 - JavaScript  
 - React.js  
 - Next.js  
-- Redux Toolkit  
+- Tailwind CSS  
+- Bootstrap  
+- DaisyUI  
 - GSAP  
 - Lenis  
-- Tailwind CSS  
 
 ### Backend  
 - Node.js  
 - Express.js  
+- EJS  
+- REST API Development  
+- API Integration  
 
 ### Database  
 - MongoDB  
 
+### State Management  
+- Redux Toolkit  
+- Context API  
+- Advanced State Handling  
+
 ### Programming Languages  
 - JavaScript  
 - C++  
+- Python  
+- Java  
+
+### Data Structures & Algorithms  
+- Arrays  
+- Strings  
+- Linked List  
+- Stack  
+- Queue  
+- Searching & Sorting  
+- Recursion (Intermediate Level)  
+- Problem Solving in C++, Python & Java  
 
 ### Tools  
 - Git  
@@ -53,36 +73,24 @@ Passionate about problem-solving, clean code, and continuously learning new tech
 
 ## What I Build  
 
-- Responsive and modern web applications  
-- Full Stack MERN projects  
+- Full Stack MERN Applications  
+- Responsive Websites  
+- Authentication Systems  
+- Admin Dashboards  
 - REST APIs  
-- Authentication systems  
-- Admin dashboards  
-- Smooth animated UI experiences  
-- Scalable frontend architectures  
+- Dynamic UI Components  
+- Smooth Animated Interfaces  
+- Database Driven Applications  
 
 ---
 
-## Featured Projects  
+## Current Focus  
 
-### DSA Practice Codes  
-C++ solutions for coding problems and data structures practice.  
-
-### Full Stack Web Applications  
-Modern MERN stack projects with authentication, dashboards, and APIs.  
-
-### Animated Frontend Projects  
-Creative UI projects using GSAP, React, and smooth scrolling experiences.  
-
----
-
-## Currently Learning  
-
-- Advanced Backend Architecture  
-- System Design Basics  
+- Advanced DSA  
+- System Design  
+- Scalable Backend Development  
 - Next.js Advanced Concepts  
-- Performance Optimization  
-- Clean Code Practices  
+- Clean Architecture  
 
 ---
 
@@ -94,4 +102,4 @@ GitHub: https://github.com/subarat001
 
 ---
 
-Learning never stops — every project is a step closer to mastery.
+Learning never stops — consistency creates mastery.
