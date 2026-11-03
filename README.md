@@ -20,7 +20,7 @@
 
 - React Developer at **L2G Fincap** (NBFC / fintech), building loan management dashboards and integrating large sets of REST APIs
 - Running **TechNest**, my freelance full-stack development studio, where I deliver websites, admin panels and web apps for clients
-- Pursuing **MCA** from Amity University Online; completed **BA** from IGNOU
+- Pursuing **MCA** from Amity University Online
 - Strong in frontend, backend and database fundamentals, with a focus on clean code and logic building
 - Always learning and shipping real-world projects
 
