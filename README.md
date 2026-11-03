@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Subarat Kumar 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer · React & Next.js · MERN Stack</b><br/>
-  I build fast, scalable, user-friendly web applications, from dashboards to REST APIs.
+  <b>Full Stack Developer · React, Next.js & React Native · MERN Stack</b><br/>
+  I build fast, scalable, user-friendly web and mobile applications, from dashboards to REST APIs.
 </p>
 
 <p align="center">
@@ -20,8 +20,8 @@
 
 - React Developer at **L2G Fincap** (NBFC / fintech), building loan management dashboards and integrating large sets of REST APIs
 - Running **TechNest**, my freelance full-stack development studio, where I deliver websites, admin panels and web apps for clients
-- Pursuing **MCA** from Amity University Online
-- Strong in frontend, backend and database fundamentals, with a focus on clean code and logic building
+- Pursuing **MCA** from Amity University Online; completed **BA** from IGNOU
+- Strong in frontend, mobile, backend and database fundamentals (React Native, TypeScript, Prisma, Django), with a focus on clean code and logic building
 - Always learning and shipping real-world projects
 
 ---
@@ -37,10 +37,17 @@
   <img src="https://img.shields.io/badge/Lenis-000000?style=flat-square" alt="Lenis" />
 </p>
 
+**Mobile**
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
+
 **Backend & Database**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,django,py,mongodb" alt="Backend" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
 
 **State Management**
@@ -53,7 +60,7 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,cpp,py,java" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,py,java" alt="Languages" />
 </p>
 
 **Tools**
@@ -73,6 +80,8 @@
 | **Authentication Systems** | Login, token refresh, protected routes, cookie-based sessions |
 | **REST API Integration** | Large API sets wired into clean Redux Toolkit state flows |
 | **Full Stack MERN Apps** | React / Next.js frontends with Node, Express and MongoDB backends |
+| **Mobile Apps** | Cross-platform apps with React Native |
+| **Typed Backends** | TypeScript + Node/Express with Prisma ORM, and Python/Django APIs |
 | **Responsive Websites** | Tailwind CSS and DaisyUI interfaces with smooth GSAP and Lenis animations |
 
 ---
